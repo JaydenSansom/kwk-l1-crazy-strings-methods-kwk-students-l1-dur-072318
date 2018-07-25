@@ -5,9 +5,6 @@ def crazy_strings(a,b)
    a.reverse
    b=b.gsub "s","z"
    b.swapcase
-  
+   puts "#{a} #{b}"
 end
 
-first_string = ()
-second_string = ()
-puts "#{first_string} #{second_string}"
