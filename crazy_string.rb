@@ -3,7 +3,7 @@
 def crazy_strings(a,b)
    a.upcase.reverse
    b=b.gsub "s","z"
-   var.swapcase
+   b.swapcase
   
 end
 
