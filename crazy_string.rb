@@ -6,6 +6,6 @@ def crazy_strings(a,b)
    var.swapcase
   
 end
-first_string = ()
-second_string = ()
+first_string = (a)
+second_string = (b)
 puts "#{first_string} #{second_string}"
