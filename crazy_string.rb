@@ -8,4 +8,4 @@ def crazy_strings(a,b)
 end
 first_string = ()
 second_string = ()
-"#{first_string} #{second_string}"
+puts "#{first_string} #{second_string}"
