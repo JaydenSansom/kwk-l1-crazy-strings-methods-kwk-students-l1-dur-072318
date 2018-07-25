@@ -7,6 +7,6 @@ def crazy_strings(a,b)
   
 end
 
-first_string = (a)
-second_string = (b)
+first_string = ()
+second_string = ()
 puts "#{first_string} #{second_string}"
